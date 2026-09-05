@@ -1,0 +1,14 @@
+/home/sarina/Projects/CSharp/My_Awesome_Program/bin/Debug/net10.0/My_Awesome_Program
+/home/sarina/Projects/CSharp/My_Awesome_Program/bin/Debug/net10.0/My_Awesome_Program.deps.json
+/home/sarina/Projects/CSharp/My_Awesome_Program/bin/Debug/net10.0/My_Awesome_Program.runtimeconfig.json
+/home/sarina/Projects/CSharp/My_Awesome_Program/bin/Debug/net10.0/My_Awesome_Program.dll
+/home/sarina/Projects/CSharp/My_Awesome_Program/bin/Debug/net10.0/My_Awesome_Program.pdb
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/My_Awesome_Program.GeneratedMSBuildEditorConfig.editorconfig
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/My_Awesome_Program.AssemblyInfoInputs.cache
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/My_Awesome_Program.AssemblyInfo.cs
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/My_Awesome_Program.csproj.CoreCompileInputs.cache
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/My_Awesome_Program.dll
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/refint/My_Awesome_Program.dll
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/My_Awesome_Program.pdb
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/My_Awesome_Program.genruntimeconfig.cache
+/home/sarina/Projects/CSharp/My_Awesome_Program/obj/Debug/net10.0/ref/My_Awesome_Program.dll
