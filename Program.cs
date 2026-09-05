@@ -3,10 +3,18 @@
     class Program {
         static void Main(string[] args)
         {
-            Console.WriteLine("What's your name?");
-            string userName = Console.ReadLine();
+            int num01;
+            int num02;
 
-            Console.WriteLine("Hello " + userName + ", nice to meet ya :3");
+            Console.Write("Input a number: ");
+
+            num01 = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Input a second Number: ");
+            num02 = Convert.ToInt32(Console.ReadLine());
+
+            int result = num01 * num02;
+            Console.WriteLine("The result is: " + result);
 
             Console.ReadKey();
         }
